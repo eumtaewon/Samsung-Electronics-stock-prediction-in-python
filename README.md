@@ -4,4 +4,5 @@
   		-Finance DataReader 패키지 사용
   		-개발환경: Google Colab
   		-활용 Data: 삼성전자 주가
+      -기간 2020.01.01~2022-06.05
      
